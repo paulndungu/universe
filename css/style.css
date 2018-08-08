@@ -1,0 +1,139 @@
+.row1{
+    color: gray;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+
+.row2{
+    background-color: black;
+}
+.intro{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: aqua;
+}
+.introduction{
+    color: rgb(62, 187, 145);
+    font-family: 'Orbitron', sans-serif;
+}
+.descrip{
+    color: aqua;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+.description{
+    color: rgb(62, 187, 145);
+    font-family: 'Orbitron', sans-serif;
+}
+.bigb{
+    color: aqua;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+.bigbang{
+    color: rgb(62, 187, 145);
+    font-family: 'Orbitron', sans-serif;
+}
+.form{
+    color: aqua;
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+.formation{
+    color: rgb(62, 187, 145);
+    font-family: 'Orbitron', sans-serif;
+}
+
+.row3{
+   background-color: brown;
+}
+.snr{
+    color: rgb(93, 93, 241);
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+
+}
+.regions{
+    color: rgb(255, 255, 255);
+    font-family: 'Orbitron', sans-serif;
+}
+.exp{
+    color: rgb(93, 93, 241);
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+.expansion{
+    color: rgb(255, 255, 255);
+    font-family: 'Orbitron', sans-serif;
+}
+
+.row4{
+    background-color: lightgreen;
+}
+.space{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: lime;
+}
+.spacetime{
+    color: rgb(105, 187, 24);
+    font-family: 'Orbitron', sans-serif;
+}
+.siz{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: lime;
+}
+.size{
+    color: rgb(105, 187, 24);
+    font-family: 'Orbitron', sans-serif;
+}
+.supp{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: lime;
+}
+.support{
+    color: rgb(105, 187, 24);
+    font-family: 'Orbitron', sans-serif;
+}
+
+.row5{
+    background-color: peru;
+}
+.matt{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: purple;
+}
+.matter{
+    color: rgb(141, 59, 141);
+    font-family: 'Orbitron', sans-serif;
+}
+.comp{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: purple;
+}
+.composition{
+    color: rgb(141, 59, 141);
+    font-family: 'Orbitron', sans-serif;
+}
+.part{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: purple;
+}
+.partic{
+    color: rgb(141, 59, 141);
+    font-family: 'Orbitron', sans-serif;
+}
+.energ{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    color: purple;
+}
+.energy{
+    color: rgb(141, 59, 141);
+    font-family: 'Orbitron', sans-serif;
+}
